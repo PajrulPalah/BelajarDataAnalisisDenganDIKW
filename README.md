@@ -4,11 +4,15 @@
 **Data UMKM di Jawa Barat 2019-2021**
 **Rumusan Permasaahann:**
 Bagaimana Cara Meningkatkan Jumlah Pelaku dan produk kategori UMKM di
-Jawa barat
+Jawa barat?
+
 Data yang diperlukan adalah database UMKM dari Dinas Koperasi dan Usaha
 Kecil Jawa Barat (Diskuk Jabar)
-Dataset
-Penjelasan Menggunakan Analisa Piramida DIKW
+
+**Dataset**
+sumber data klik <a href="https://opendata.jabarprov.go.id/id/dataset/jumlah-usaha-mikro-kecil-dan-menengah-umkm-binaan-berdasarkan-jenis-usaha-di-jawa-barat"> Data UMKM Jawa Barat</a>
+
+**Penjelasan Menggunakan Analisa Piramida DIKW**
 
 **Data**: Data UMKM di Jawa Barat dari tahun 2019-2021 yang tersimpan didalam database, seperti
 variable tahun, jenis usaha, total umkm, nama provinsi, nama kabupaten, kode kabupatem dsb.
@@ -25,3 +29,5 @@ awal 2019 hingga 2021 dan mengalami penurunan yang cuku drastic di tahun 2021.
 pada 5 sektor potensial utama yaitu makanan, kuliner, fashion, craft dan minuman
 
 ![Capture](https://github.com/PajrulPalah/DataAnalisisUMKMJabar/assets/143974279/57f85435-75af-4663-b908-506cb1bf90c3)
+
+
