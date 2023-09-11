@@ -55,10 +55,10 @@ selama 4 tahun, total produk yang disorder.
 
 **Knowledge:** Ada 10 kota yang memiliki total penjualan produk terbanyak, Pertumbuhan 
 Penjualan dari tahun ke tahun cenderung meningkat kecuali di tahun 2014-2015 sedkiti mengalami
-penurunan, Total persentase produk yang diminati berdasarkan 3 kategori cenderung stabil pada 
+penurunan, Total persentase produk yang diminati berdasarkan 3 kategori cenderung stabil di
 angka 30 %.
 
-**Wisdom:** Penyebaran dalam mengiklankan produk, dan membuka cabang toko di wilayah 
+**Wisdom:** Penyebaran dalam mengiklankan produk dan membuka cabang toko di wilayah 
 strategis agar meningkatkan penjualan produk dan jangkauan pelanggan secara merata ke seluruh 
 wilayah di negara Amerika.
 
