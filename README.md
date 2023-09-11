@@ -28,8 +28,7 @@ UMKM di Jawa Barat
 ada tiga besar jenis usaha yaitu makanan, kuliner dan fashion, kemudian terjadi peningkatan di
 awal 2019 hingga 2021 dan mengalami penurunan yang cukup drastis di tahun 2021.
 
-**Wisdom** : Pengadaan pendanaan yang lebih besar dan merata di tahun 2022 dan di fokuskan
-pada 5 sektor potensial utama yaitu makanan, kuliner, fashion, craft dan minuman.
+**Wisdom** : Pengadaan pendanaan yang lebih besar dan merata di tahun 2022.
 
 ![WhatsApp Image 2023-09-11 at 08 03 32](https://github.com/PajrulPalah/Belajar_Data_Analisis_Dengan_DIKW/assets/143974279/3d9e82b3-939c-4606-b292-dbeed68dd0d5)
 
