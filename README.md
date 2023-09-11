@@ -4,6 +4,8 @@
 ## CASE 1
 **Data UMKM di Jawa Barat 2019-2021**
 **Rumusan Permasaahann:**
+
+Pertanyaan kemungkinan muncul adalah:
 Bagaimana Cara Meningkatkan Jumlah Pelaku dan produk kategori UMKM di
 Jawa barat?
 
@@ -24,12 +26,12 @@ UMKM di Jawa Barat
 
 **Knowledge**: ada top 7 Kabupaten dengan total tertinggi di atas 500 pelaku UMKM di Jawa Barat,
 ada tiga besar jenis usaha yaitu makanan, kuliner dan fashion, kemudian terjadi peningkatan di
-awal 2019 hingga 2021 dan mengalami penurunan yang cuku drastic di tahun 2021.
+awal 2019 hingga 2021 dan mengalami penurunan yang cukup drastis di tahun 2021.
 
-**Wisdom** : Pengadanan pendanaan yang lebih besar dan merata di tahun 2022 dan di fokuskan
-pada 5 sektor potensial utama yaitu makanan, kuliner, fashion, craft dan minuman
+**Wisdom** : Pengadaan pendanaan yang lebih besar dan merata di tahun 2022 dan di fokuskan
+pada 5 sektor potensial utama yaitu makanan, kuliner, fashion, craft dan minuman.
 
-![Capture](https://github.com/PajrulPalah/DataAnalisisUMKMJabar/assets/143974279/57f85435-75af-4663-b908-506cb1bf90c3)
+![WhatsApp Image 2023-09-11 at 08 03 32](https://github.com/PajrulPalah/Belajar_Data_Analisis_Dengan_DIKW/assets/143974279/3d9e82b3-939c-4606-b292-dbeed68dd0d5)
 
 ## CASE 2
 **Data Penjualan toko Superstore di Amerika (Sektor Produk Bisnis kategori 
